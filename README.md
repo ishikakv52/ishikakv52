@@ -15,7 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on  <br>• Practice programs in Python  <br>• SQL queries and database operations  <br>• Small academic and self-learning projects  <br><br>🌱 I’m currently learning  <br>• Python programming (basics to logic building)  <br>• MySQL & database fundamentals  <br>• Core computer science concepts  <br><br>👯 I’m looking to collaborate on  <br>• Beginner-friendly Python projects  <br>• Learning-based open-source contributions  <br><br>🤝 I’m looking for help with  <br>• Writing efficient and clean code  <br>• Improving problem-solving skills  <br>• Understanding real-world use cases  <br><br>💬 Ask me about  <br>• Python basics  <br>• SQL / MySQL  <br>• C / C++ programming<br><br><br>⚡ Fun fact  <br>• I believe consistency is more important than speed 🚀<br>
+🔭 Currently working on  <br>
+• Python practice programs  <br>
+• SQL & database basics  <br><br>
+
+🌱 Currently learning  <br>
+• Python (logic building)  <br>
+• MySQL fundamentals  <br><br>
+
+👯 Open to collaborate on  <br>
+• Beginner Python projects  <br><br>
+
+💬 Ask me about  <br>
+• Python  <br>
+• C / C++  <br>
+• SQL / MySQL  <br><br>
+
+⚡ Fun fact  <br>
+• Consistency beats speed 🚀<br>
 
 
 ## 🌐 Socials:
